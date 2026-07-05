@@ -1,0 +1,17 @@
+*{
+    width: 100%;
+}
+
+.title{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.content{
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipe{
+    margin: 10px;
+}
